@@ -1,0 +1,33 @@
+.root {
+    -fx-font-size: 13px;
+}
+
+.media-thumb {
+    -fx-background-color: #f2f2f2;
+    -fx-border-color: #d0d0d0;
+    -fx-border-width: 1;
+}
+
+.video-thumb {
+    -fx-background-color: #2b2b2b;
+}
+
+.media-placeholder-label {
+    -fx-text-fill: #888888;
+    -fx-font-size: 12px;
+}
+
+.video-label {
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+}
+
+.media-name {
+    -fx-font-size: 11px;
+    -fx-max-width: 180px;
+}
+
+.media-time {
+    -fx-font-size: 10px;
+    -fx-text-fill: #777777;
+}
